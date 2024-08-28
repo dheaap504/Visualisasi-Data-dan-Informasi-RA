@@ -20,7 +20,7 @@ Teknik-teknik visualisasi data seperti bahasa visualisasi, pendekatan efisien un
 
 Metode yang digunakan dalam penelitian ini adalah studi pustaka. Peneliti melakukan telaah terhadap berbagai referensi terkait topik penelitian, seperti jurnal ilmiah, prosiding konferensi, dokumen sistem, dan sumber terbuka lainnya. Kata kunci seperti "visualisasi data", "spesifikasi visualisasi", "visualisasi efisien", dan "rekomendasi visualisasi" digunakan untuk memudahkan pencarian. Informasi penting seperti tujuan, metode, hasil validasi diekstrak dari referensi-referensi yang relevan. Hasil analisis dan ekstraksi kemudian dirangkum secara sistematis dengan merujuk pada kerangka penelitian. Metode ini memungkinkan peneliti untuk memperoleh pemahaman yang mendalam tentang perkembangan terkini dalam bidang visualisasi data berdasarkan kajian terhadap hasil penelitian terdahulu.
 
-## **Hasil Penelitian **
+## **Hasil Penelitian**
 
 1. Visualisasi spesifikasi -> Dirangkum berbagai jenis bahasa visualisasi berdasarkan tingkat ekspresifitasnya, mulai dari bahasa rendah hingga tingkat tinggi.
 2. Pendekatan efisien untuk visualisasi data -> Teknik yang dikembangkan untuk mempercepat proses visualisasi agar interaktif meski menggunakan dataset besar. Misalnya penerjemahan query dan integrasi dengan DBMS.
